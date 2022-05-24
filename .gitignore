@@ -11,3 +11,5 @@ thirdparty/libzip-1.1.1
 .vscode/
 data/
 result.txt
+dso_venv/
+results/
